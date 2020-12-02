@@ -10,6 +10,10 @@
 
 ## 文章列表
 
+### 2020/12
+
+- [PyCharm修改Terminal为PowerShell后未激活正确Conda环境的问题](/posts/2020/12/2PyCharm修改Terminal为PowerShell后未激活正确Conda环境的问题.md)
+
 ### 2020/11
 
 - [11月结束了](/posts/2020/11/3011月结束了.md)
