@@ -12,7 +12,6 @@
 
 ### 2020/12
 
-- [Vim学习&刻意练习](/articles/2020/12/17Vim学习&刻意练习.md)
 - [Windows10调整网络优先级](/articles/2020/12/11Windows10调整网络优先级.md)
 - [PyCharm修改Terminal为PowerShell后未激活正确Conda环境的问题](/articles/2020/12/2PyCharm修改Terminal为PowerShell后未激活正确Conda环境的问题.md)
 
