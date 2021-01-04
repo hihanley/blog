@@ -1,0 +1,12 @@
+Transparency=high
+OpaqueWhenFocused=no
+Locale=zh_CN
+Charset=UTF-8
+Columns=100
+Rows=35
+Language=@
+FontSmoothing=full
+Font=Consolas
+FontWeight=400
+FontIsBold=no
+FontHeight=14
