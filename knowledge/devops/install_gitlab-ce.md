@@ -9,7 +9,7 @@ version: '3'
 
 services:
   web:
-    image: 'gitlab/gitlab-ee:latest'
+    image: 'gitlab/gitlab-ce:latest'
     restart: 'always'
     hostname: '192.168.80.145'
     environment:
