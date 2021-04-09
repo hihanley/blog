@@ -2,18 +2,14 @@
 
 **`仅供自己查阅使用，不一定正确`**
 
-## DevOps
+## [DevOps](/knowledge/devops/)
 
- - [Docker安装Gitlab-Runner](/knowledge/devops/install_gitlab-runner.md)
+ - [Docker-Compose安装Gitlab-CE](/knowledge/devops/README.md#docker-compose安装gitlab-ce)
 
- - [Docker-Compose安装Gitlab-CE](/knowledge/devops/install_gitlab-ce.md)
-
-## 杂七杂八
-
- - [编程范式](/knowledge/other/programming_paradigm.md)
-
-## 语言语法
-
- - [Markdown基本语法](/knowledge/syntax/markdown.md)
+ - [Docker安装Gitlab-Runner](/knowledge/devops/README.md#docker安装gitlab-runner)
 
 ## [各种配置](/knowledge/configuration/)
+
+ - [PowerShell窗口设置](/knowledge/configuration/README.md#powershell窗口设置)
+
+ - [Java编码配置](/knowledge/configuration/README.md#java编码配置)
