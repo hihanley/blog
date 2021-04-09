@@ -15,3 +15,5 @@
 ## 语言语法
 
  - [Markdown基本语法](/knowledge/syntax/markdown.md)
+
+## [各种配置](/knowledge/configuration/)
