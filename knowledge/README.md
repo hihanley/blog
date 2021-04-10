@@ -13,3 +13,5 @@
  - [PowerShell窗口设置](/knowledge/configuration/README.md#powershell窗口设置)
 
  - [Java编码配置](/knowledge/configuration/README.md#java编码配置)
+
+ - [v2ray服务端配置](/knowledge/configuration/README.md#v2ray服务端配置)
