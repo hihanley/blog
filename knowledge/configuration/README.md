@@ -18,7 +18,7 @@
 <details>
   <summary>config.json</summary>
   
-  ```
+  ```json
   {
   "inbounds": [
     {
