@@ -4,10 +4,9 @@
 <script>
     const meet = new Date("2021/07/27 23:00")
     document.body.innerHTML = getInterval(meet)
-    document.innerHTML =
-        setInterval(() => {
-            document.body.innerHTML = getInterval(meet)
-        }, 1000)
+    setInterval(() => {
+        document.body.innerHTML = getInterval(meet)
+    }, 1000)
 
     function getInterval(start) {
         // 两个日期对象，相差的毫秒数
