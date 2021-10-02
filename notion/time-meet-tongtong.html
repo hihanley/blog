@@ -1,11 +1,12 @@
-<html>
+<html lang="en">
 <meta charset="UTF-8">
-<div id="time"></div>
+<title>time-meet-tongtong</title>
 <script>
     const meet = new Date("2021/07/27 23:00")
-    setInterval(() => {
-        document.getElementById('time').innerHTML = getInterval(meet)
-    }, 1000)
+    document.innerHTML =
+        setInterval(() => {
+            document.body.innerHTML = getInterval(meet)
+        }, 1000)
 
     function getInterval(start) {
         // 两个日期对象，相差的毫秒数
