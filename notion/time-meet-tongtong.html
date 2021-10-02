@@ -1,11 +1,13 @@
-<html lang="en">
+<html lang="zh-CN">
 <meta charset="UTF-8">
 <title>time-meet-tongtong</title>
+
+<body></body>
 <script>
     const meet = new Date("2021/07/27 23:00")
-    document.body.innerHTML = getInterval(meet)
+    document.body.innerText = getInterval(meet)
     setInterval(() => {
-        document.body.innerHTML = getInterval(meet)
+        document.body.innerText = getInterval(meet)
     }, 1000)
 
     function getInterval(start) {
