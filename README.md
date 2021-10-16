@@ -1,19 +1,9 @@
 # 主页
 
+> 循序渐进，细水长流。
+
+一些我想分享的东西，一个展示我的地方。
+
 ## 文章列表
 
-### 2020/12
-
-- [Windows10调整网络优先级](/articles/2020/12/11Windows10调整网络优先级.md)
-- [PyCharm修改Terminal为PowerShell后未激活正确Conda环境的问题](/articles/2020/12/2PyCharm修改Terminal为PowerShell后未激活正确Conda环境的问题.md)
-
-### 2020/11
-
-- [11月结束了](/articles/2020/11/3011月结束了.md)
-
-### 2020/10
-
-- [观视频有感](/articles/2020/10/23观视频有感.md)
-
-
-<div>Logo通过<a href="https://www.designevo.com/cn/" title="免费在线logo制作软件">DesignEvo</a>设计制作</div>
+- [重拾我的博客](/articles/2021/10/17-went-back-to-blog.md) - 2021/10/17
