@@ -1,4 +1,4 @@
-# DevOps
+# GitLab-CE
 
 ## Docker-Compose安装Gitlab-CE
 

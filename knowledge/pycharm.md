@@ -1,6 +1,6 @@
-# PyCharm修改Terminal为PowerShell后未激活正确Conda环境的问题
+# PyCharm
 
-`2020年12月2日`
+## PyCharm修改Terminal为PowerShell后未激活正确Conda环境的问题
 
 **问题**：PyCharm修改Terminal为PowerShell后，打开Terminal一直激活base环境，而不是项目设置的虚拟环境。  
 
