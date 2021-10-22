@@ -4,4 +4,4 @@
 
 ### docker
 
-- 解决macOS不能访问容器网络的问题：[mac-docker-connector](https://github.com/wenjunxiao/mac-docker-connector)
+- 解决macOS不能访问docker容器网络的问题：[mac-docker-connector](https://github.com/wenjunxiao/mac-docker-connector)
