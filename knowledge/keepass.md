@@ -2,6 +2,8 @@
 
 ## 使用KeePass保存SSH Keys并在Windows10中使用KeePass的KeeAgent插件作为SSH-Agent且支持Git
 
+补充：经过以下设置后，执行`ssh-add.exe -l`命令会使ssh-agent失效，重启可以解决（重建socket file）。
+
 1. 在Windows10的服务中停止并禁用`OpenSSH Authentication Agent`服务  
 2. 设置KeeAgent为Agent Mode，勾选`Enable agent for Windows OpenSSH`，勾选`Create Cygwin compatible socket file`，设置路径为`C:\Users\{UserName}\AppData\Local\Temp\cyglockfile`  
 3. 设置系统环境变量`SSH_AUTH_SOCK`为刚刚设置的路径
