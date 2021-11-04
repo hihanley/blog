@@ -27,6 +27,8 @@
 - 壁纸 [Wallpapers, download free desktop wallpapers, beautiful widescreen, pics, pictures. The best pictures on your phone.](https://www.goodfon.com/)
 - 壁纸 [Wallpaper Abyss - HD Wallpapers, Background Images](https://wall.alphacoders.com/)
 - 壁纸 [桌面壁纸 电脑桌面壁纸 高清壁纸大全下载 桌面背景图片 彼岸桌面](http://www.netbian.com/)
+- 壁纸 [konachan.com - Konachan.com Anime Wallpapers](https://konachan.com/)
+- 壁纸 [konachan.net - Konachan.com Anime Wallpapers](https://konachan.net/)
 
 ## 开源游戏
 
