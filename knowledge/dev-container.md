@@ -14,11 +14,10 @@
 	},
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
-		"TabNine.tabnine-vscode",
+		"github.copilot",
 		"humao.rest-client",
 		"redhat.vscode-xml",
-		"redhat.vscode-yaml",
-		// "golang.Go"
+		"redhat.vscode-yaml"
 	],
 	"mounts": [
 		"source=dev-linux-var-lib-docker,target=/var/lib/docker,type=volume"
@@ -26,8 +25,8 @@
 	// Comment out connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
 	"remoteUser": "vscode",
 	"remoteEnv": {
-		// "PATH": "${containerEnv:PATH}:/usr/local/go/bin",
-		// "GOPROXY": "https://goproxy.cn,direct"
+		"GOPROXY": "https://goproxy.cn,direct",
+		// "PATH": "${containerEnv:PATH}:/path/to/bin",
 	}
 }
 ```
