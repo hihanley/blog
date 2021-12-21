@@ -22,9 +22,10 @@ services:
     container_name: "mysql"
     image: "mysql/mysql-server:8.0"
     restart: "always"
-    command: "--default-authentication-plugin=mysql_native_password"
+    command: "--authentication_policy=mysql_native_password"
     environment:
       "MYSQL_ROOT_PASSWORD": "root"
+      "MYSQL_ROOT_HOST": "%"
       "TZ": "Asia/Shanghai"
     ports:
       - "3306:3306"
