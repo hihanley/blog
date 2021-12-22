@@ -14,7 +14,7 @@
 	},
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
-		"github.copilot",
+		"visualstudioexptteam.vscodeintellicode",
 		"humao.rest-client",
 		"redhat.vscode-xml",
 		"redhat.vscode-yaml"
