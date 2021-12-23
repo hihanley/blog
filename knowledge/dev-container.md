@@ -24,7 +24,7 @@
 	// Comment out connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
 	"remoteUser": "vscode",
 	"remoteEnv": {
-		"GOPROXY": "https://goproxy.cn,direct",
+		// "GOPROXY": "https://goproxy.cn,direct",
 		// "PATH": "${containerEnv:PATH}:/path/to/bin",
 	}
 }
