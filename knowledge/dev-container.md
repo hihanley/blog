@@ -7,10 +7,10 @@
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.209.6/containers/ubuntu
 {
 	"name": "dev",
-	"image": "mcr.microsoft.com/vscode/devcontainers/base:hirsute",
+	"image": "mcr.microsoft.com/vscode/devcontainers/base:ubuntu-21.04",
 	// Set *default* container specific settings.json values on container create.
 	"settings": {
-		"terminal.integrated.defaultProfile.linux": "zsh"
+		// "terminal.integrated.defaultProfile.linux": "zsh"
 	},
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
