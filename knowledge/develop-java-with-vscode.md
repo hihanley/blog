@@ -5,20 +5,20 @@
 ```xml
 <project>
     <!-- ... -->
-	<repositories>
-		<repository>
-			<id>aliyunmaven</id>
-			<name>阿里云公共仓库</name>
-			<url>https://maven.aliyun.com/repository/public</url>
-		</repository>
-	</repositories>
-	<pluginRepositories>
-		<pluginRepository>
-			<id>aliyunmaven</id>
-			<name>阿里云公共仓库</name>
-			<url>https://maven.aliyun.com/repository/public</url>
-		</pluginRepository>
-	</pluginRepositories>
+    <repositories>
+        <repository>
+            <id>aliyunmaven</id>
+            <name>阿里云公共仓库</name>
+            <url>https://maven.aliyun.com/repository/public</url>
+        </repository>
+    </repositories>
+    <pluginRepositories>
+        <pluginRepository>
+            <id>aliyunmaven</id>
+            <name>阿里云公共仓库</name>
+            <url>https://maven.aliyun.com/repository/public</url>
+        </pluginRepository>
+    </pluginRepositories>
 </project>
 ```
 
