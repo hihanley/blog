@@ -35,3 +35,16 @@
     ]
 }
 ```
+
+## maven 项目指定 Java 版本
+修改 `pom.xml` 文件:
+```xml
+<project>
+    <!-- ... -->
+    <properties>
+		<java.version>17</java.version>
+		<maven.compiler.source>17</maven.compiler.source>
+		<maven.compiler.target>17</maven.compiler.target>
+	</properties>
+</project>
+```
