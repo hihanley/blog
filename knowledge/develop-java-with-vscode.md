@@ -1,5 +1,10 @@
 # 使用 `VS Code` 开发 Java 项目
 
+## 推荐插件
+- `vscjava.vscode-java-pack`
+- `pivotal.vscode-boot-dev-pack`
+- `gabrielbb.vscode-lombok`
+
 ## maven 阿里云镜像配置
 使用 `VS Code` 打开 Java 项目前, 修改 `pom.xml` 文件:
 ```xml
