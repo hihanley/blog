@@ -53,3 +53,5 @@
 	</properties>
 </project>
 ```
+## swagger ui 配置
+https://springdoc.org/
