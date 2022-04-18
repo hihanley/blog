@@ -2,5 +2,5 @@
 
 ## Multi upstream
 
-`git remote add github <repository url>`  
-`git remote add bitbucket <repository url>`
+`git remote add origin <repository url>`  
+`git remote set-url --add origin <another repository url>`
