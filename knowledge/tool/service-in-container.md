@@ -1,20 +1,47 @@
-# Database in docker
+# Container
 
-> Need to create folders manually.
+## MongoDB
 
-> Those images support arm64.
+```yml
+version: "3"
+
+services:
+  mongo:
+    container_name: "mongo"
+    image: "mongo"
+    restart: "always"
+    ports:
+      - "27017:27017"
+    environment:
+      "MONGO_INITDB_ROOT_USERNAME": root
+      "MONGO_INITDB_ROOT_PASSWORD": root
+
+  mongo-express:
+    container_name: "mongo-express"
+    image: "mongo-express"
+    restart: "always"
+    ports:
+      - "8317:8081"
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: "root"
+      ME_CONFIG_MONGODB_ADMINPASSWORD: "root"
+      ME_CONFIG_MONGODB_ENABLE_ADMIN: "true"
+      ME_CONFIG_MONGODB_URL: "mongodb://root:root@mongo:27017/"
+```
 
 ## MySQL
 
-```
+> Support arm64.  
+> Need to create folders manually.
+
+```text
 mysql
 ├── lib
 ├── log
 └── docker-compose.yml
 ```
 
-`docker-compose.yml`
-``` yml
+```yml
 version: "3"
 
 services:
@@ -38,23 +65,24 @@ services:
     image: "phpmyadmin:5"
     restart: "always"
     ports:
-      - "13306:80"
+      - "8306:80"
     environment:
       - PMA_HOSTS=mysql
       - PMA_USER=root
       - PMA_PASSWORD=root
-
 ```
 
 ## Redis
 
-```
+> Support arm64.  
+> Need to create folders manually.
+
+```text
 redis
 ├── data
 └── docker-compose.yml
 ```
 
-`docker-compose.yml`
 ```yml
 version: "3"
 
@@ -74,7 +102,7 @@ services:
     image: "hopsoft/phpredisadmin:latest"
     restart: "always"
     ports:
-      - "16379:80"
+      - "8379:80"
     environment:
       - REDIS_1_HOST=redis
 ```
