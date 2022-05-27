@@ -7,6 +7,7 @@
 ### Tool
 
 - [Git相关](/knowledge/tool/git.md)
+- [SSH相关](/knowledge/tool/ssh.md)
 - [使用容器搭建常用服务](/knowledge/tool/service-in-container.md)
 
 ### Secure
