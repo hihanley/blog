@@ -11,177 +11,189 @@
 
 ### Client side v2ray multilayer proxy
 
-client config
+<details>
 
-```json
-{
-    "outbounds": [
-        {
-            "protocol": "vmess",
-            "settings": {
-                "vnext": [
-                    {
-                        "address": "172.19.0.2",
-                        "port": 40000,
-                        "users": [
-                            {
-                                "id": "",
-                                "alterId": 64
-                            }
-                        ]
-                    }
-                ]
-            },
-            "tag": "one"
-        },
-        {
-            "protocol": "vmess",
-            "settings": {
-                "vnext": [
-                    {
-                        "address": "172.19.0.3",
-                        "port": 40000,
-                        "users": [
-                            {
-                                "id": "",
-                                "alterId": 64
-                            }
-                        ]
-                    }
-                ]
-            },
-            "tag": "two",
-            "proxySettings": {
-                "tag": "one"
-            }
-        },
-        {
-            "protocol": "vmess",
-            "settings": {
-                "vnext": [
-                    {
-                        "address": "172.19.0.4",
-                        "port": 40000,
-                        "users": [
-                            {
-                                "id": "",
-                                "alterId": 64
-                            }
-                        ]
-                    }
-                ]
-            },
-            "tag": "three",
-            "proxySettings": {
-                "tag": "two"
-            }
-        },
-        {
-            "protocol": "vmess",
-            "settings": {
-                "vnext": [
-                    {
-                        "address": "172.19.0.5",
-                        "port": 40000,
-                        "users": [
-                            {
-                                "id": "",
-                                "alterId": 64
-                            }
-                        ]
-                    }
-                ]
-            },
-            "tag": "four",
-            "proxySettings": {
-                "tag": "three"
-            }
-        }
-    ],
-    "routing": {
-        "domainStrategy": "IPOnDemand",
-        "rules": [
-            {
-                "type": "field",
-                "ip": [
-                    "172.19.0.6"
-                ],
-                "outboundTag": "four"
-            }
-        ]
-    }
-}
-```
+  <summary>client config</summary>
+
+  ```json
+  {
+      "outbounds": [
+          {
+              "protocol": "vmess",
+              "settings": {
+                  "vnext": [
+                      {
+                          "address": "172.19.0.2",
+                          "port": 40000,
+                          "users": [
+                              {
+                                  "id": "",
+                                  "alterId": 64
+                              }
+                          ]
+                      }
+                  ]
+              },
+              "tag": "one"
+          },
+          {
+              "protocol": "vmess",
+              "settings": {
+                  "vnext": [
+                      {
+                          "address": "172.19.0.3",
+                          "port": 40000,
+                          "users": [
+                              {
+                                  "id": "",
+                                  "alterId": 64
+                              }
+                          ]
+                      }
+                  ]
+              },
+              "tag": "two",
+              "proxySettings": {
+                  "tag": "one"
+              }
+          },
+          {
+              "protocol": "vmess",
+              "settings": {
+                  "vnext": [
+                      {
+                          "address": "172.19.0.4",
+                          "port": 40000,
+                          "users": [
+                              {
+                                  "id": "",
+                                  "alterId": 64
+                              }
+                          ]
+                      }
+                  ]
+              },
+              "tag": "three",
+              "proxySettings": {
+                  "tag": "two"
+              }
+          },
+          {
+              "protocol": "vmess",
+              "settings": {
+                  "vnext": [
+                      {
+                          "address": "172.19.0.5",
+                          "port": 40000,
+                          "users": [
+                              {
+                                  "id": "",
+                                  "alterId": 64
+                              }
+                          ]
+                      }
+                  ]
+              },
+              "tag": "four",
+              "proxySettings": {
+                  "tag": "three"
+              }
+          }
+      ],
+      "routing": {
+          "domainStrategy": "IPOnDemand",
+          "rules": [
+              {
+                  "type": "field",
+                  "ip": [
+                      "172.19.0.6"
+                  ],
+                  "outboundTag": "four"
+              }
+          ]
+      }
+  }
+  ```
+
+</details>
 
 ### Server side v2ray multilayer proxy
 
-server config
+<details>
 
-```json
-{
-    "inbounds": [
-        {
-            "port": 40000,
-            "protocol": "vmess",
-            "settings": {
-                "clients": [
-                    {
-                        "id": "",
-                        "alterId": 64
-                    }
-                ],
-                "disableInsecureEncryption": true
-            }
-        }
-    ],
-    "outbounds": [
-        {
-            "protocol": "vmess",
-            "settings": {
-                "vnext": [
-                    {
-                        "address": "172.19.0.3",
-                        "port": 40000,
-                        "users": [
-                            {
-                                "id": "",
-                                "alterId": 64
-                            }
-                        ]
-                    }
-                ]
-            }
-        }
-    ]
-}
-```
+  <summary>server config</summary>
 
-final server config
+  ```json
+  {
+      "inbounds": [
+          {
+              "port": 40000,
+              "protocol": "vmess",
+              "settings": {
+                  "clients": [
+                      {
+                          "id": "",
+                          "alterId": 64
+                      }
+                  ],
+                  "disableInsecureEncryption": true
+              }
+          }
+      ],
+      "outbounds": [
+          {
+              "protocol": "vmess",
+              "settings": {
+                  "vnext": [
+                      {
+                          "address": "172.19.0.3",
+                          "port": 40000,
+                          "users": [
+                              {
+                                  "id": "",
+                                  "alterId": 64
+                              }
+                          ]
+                      }
+                  ]
+              }
+          }
+      ]
+  }
+  ```
+  
+</details>
 
-```json
-{
-    "inbounds": [
-        {
-            "port": 3389,
-            "protocol": "vmess",
-            "settings": {
-                "clients": [
-                    {
-                        "id": "",
-                        "alterId": 64
-                    }
-                ],
-                "disableInsecureEncryption": true
-            }
-        }
-    ],
-    "outbounds": [
-        {
-            "protocol": "freedom"
-        }
-    ]
-}
-```
+<details>
+
+  <summary>final server config</summary>
+
+  ```json
+  {
+      "inbounds": [
+          {
+              "port": 3389,
+              "protocol": "vmess",
+              "settings": {
+                  "clients": [
+                      {
+                          "id": "",
+                          "alterId": 64
+                      }
+                  ],
+                  "disableInsecureEncryption": true
+              }
+          }
+      ],
+      "outbounds": [
+          {
+              "protocol": "freedom"
+          }
+      ]
+  }
+  ```
+
+</details>
 
 ### V2ray + Tor
 
