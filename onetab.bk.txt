@@ -1,0 +1,53 @@
+https://github.com/type-challenges/type-challenges/blob/main/README.zh-CN.md | type-challenges/README.zh-CN.md at main · type-challenges/type-challenges · GitHub
+
+https://github.com/octokit/octokit.js | octokit/octokit.js: The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
+
+https://hihanley-blog-67jrvxrgf4rrx.github.dev/ | blog [Codespaces]
+https://hihanley-knowledge-74gr7jr92p6rw.github.dev/ | knowledge [Codespaces] - Visual Studio Code
+
+https://microsoft.github.io/IoT-For-Beginners/#/ | IoT for beginners
+https://missing-semester-cn.github.io/ | 计算机教育中缺失的一课 · the missing semester of your cs education
+https://golang.design/go-questions/ | Go 程序员面试笔试宝典 | Go 程序员面试笔试宝典
+https://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy | 编程的智慧
+
+https://www.52yunying.com/ | 52运营 | 聚合互联网运营工具，聚焦互联网实时热点
+https://tokindle.top/ | PUSH TO KINDLE!
+https://quickso.cn/ | 快点搜-搜索，快一点！-欢哥科技
+https://www.feitsui.com/ | 翡翠粤语歌词 - 粤语歌词拼音注音
+https://www.dute.org/fake-name-generator | 随机英文姓名生成器，模拟个人信息生成工具 - dute.org
+https://momoyu.cc/ | 摸摸鱼热榜
+https://www.doubilm.com/ | 逗比联萌 - 表情包大全 - 微信表情包 - QQ表情包 - 颜文字
+https://paperswithcode.com/ | The latest in Machine Learning | Papers With Code
+https://nei.st/che/plans/#clap | Plans - Project Che
+https://cn.govopendata.com/xinwenlianbo/ | 新闻联播文字版,央视新闻联播文字稿子,今天中央新闻联播直播完整版,中央电视台cctv新闻联播,新聞联播
+https://ikea-lp.netlify.app/ | IKEA Low Price Products | 宜家低价好物
+https://github.com/mayandev/ikea-low-price | Mayandev/ikea-low-price: 🧾 Showcasing IKEA's low-priced items ｜ 宜家折扣价商品｜宜家低价好物
+http://bbs.nga.cn/ | NGA玩家社区
+https://mo.fish/ | 鱼塘热榜
+https://duomoyu.com/ | 多摸鱼 - 全网资讯一站式浏览
+https://ip.orz.tools/ | IP.orz.tools
+https://ip.skk.moe/ | 查看我的 IP 地址 | 查询本机 IP 地址及归属地 | Sukka
+https://ops-coffee.cn/ | 咖啡吧导航
+https://ops-coffee.cn/weekly.html | 周刊 - 咖啡吧导航
+
+https://www.bilibili.com/video/BV1Ra411E7Ub/?spm_id_from=333.788&vd_source=edc26ccda05d662e9b635e09d4f7477f | 27分钟重塑你的爱情观！共同享乐的爱情难以长久，共同的痛苦催生亲密关系_哔哩哔哩_bilibili
+https://mp.weixin.qq.com/s?__biz=MzI0MjUxODEyMA==&mid=2247484759&idx=1&sn=2eda74a3c375c3da1ea318b3597161c7&chksm=e97a5450de0ddd467b8cf9ae73a1deae0dc87779854242e8b8689a5921f584368667a8babe90&scene=0#rd | 请对照这二十四条逻辑谬误自行打脸
+
+https://dev.to/gophers/what-are-go-workspaces-and-how-do-i-use-them-1643 | What are go workspaces and how do I use them? - DEV Community
+https://dev.to/gophers/what-are-go-generics-when-should-i-use-them-39bg | What are Go Generics & When Should I use Them? - DEV Community
+https://quii.gitbook.io/learn-go-with-tests/ | Learn Go with Tests - Learn Go with tests
+
+https://www.bilibili.com/video/BV1dU4y1d7V9?p=2 | 这可能是B站最全面最详细的唱歌技巧教程，整整800集|从小白到高手，这还教不会你！那你来当音乐老师！_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1ZS4y1U7GB?spm_id_from=333.851.b_7265636f6d6d656e64.5 | 禁止自学浪费脑细胞！跟着B站学摄影，摄影师私藏的高级技巧200集。这都没人看，我不更了！_哔哩哔哩_bilibili
+https://coolshell.cn/articles/22173.html | “一把梭：REST API 全用 POST” | 酷 壳 - CoolShell
+https://coolshell.cn/articles/21672.html | 我做系统架构的一些原则 | 酷 壳 - CoolShell
+https://go.dev/blog/when-generics | When To Use Generics - The Go Programming Language
+https://coolshell.cn/articles/series/go%e7%bc%96%e7%a8%8b%e6%a8%a1%e5%bc%8f | Go编程模式 | 酷 壳 - CoolShell
+https://zh.z-lib.org/ | Z-Library。世界上最大的数字图书馆。
+
+https://gfw.go101.org/article/101.html | Go语言101 -Go语言101
+https://zhuanlan.zhihu.com/p/68792989 | 深度解密Go语言之context - 知乎
+https://www.modevol.com/ | 渐构 Modevol
+
+https://v2ray.com/chapter_02/reverse.html | 反向代理 · Project V 官方网站
+https://guide.v2fly.org/advanced/tor.html#%E5%AE%89%E8%A3%85-tor-%E8%BD%AF%E4%BB%B6 | Tor | 新 V2Ray 白话文指南
