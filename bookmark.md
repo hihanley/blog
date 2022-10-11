@@ -16,6 +16,7 @@
 
 - 壁纸 [Awesome Wallpapers - wallhaven.cc](https://wallhaven.cc/)
 - 电子书 [Z-Library 世界上最大的数字图书馆](https://zh.z-lib.org/)
+- [设计达人](https://www.shejidaren.com/)
 
 ## 视频与课程
 
