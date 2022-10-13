@@ -20,6 +20,7 @@
 
 ## 视频与课程
 
+- [SEO: 初学者完整指南](https://ahrefs.com/zh/seo)
 - 学习视频 B站2021年1024程序员节 [1024程序员节](https://www.bilibili.com/blackboard/20211024.html)
 - 学习观作者 YJango 老师的网站 [渐构 Modevol](https://www.modevol.com/)
 - 情感视频 B站 [声昔TV](https://space.bilibili.com/1426112202)
