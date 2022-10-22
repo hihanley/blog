@@ -27,6 +27,7 @@
 - 英语学习 知乎 [恶魔奶爸](https://www.zhihu.com/people/e-miao-de-nai-ba/posts)
 - 唱歌教程 B站 [这可能是B站最全面最详细的唱歌技巧教程，整整800集|从小白到高手，这还教不会你！那你来当音乐老师！](https://www.bilibili.com/video/BV1dU4y1d7V9)
 - 摄影教程 B站 [禁止自学浪费脑细胞！跟着B站学摄影，摄影师私藏的高级技巧200集。这都没人看，我不更了！](https://www.bilibili.com/video/BV1ZS4y1U7GB)
+- 摄影教程 B站 [这个视频将带你速通手机摄影！](https://www.bilibili.com/video/BV1ge4y177x1)
 - 微软物联网教程 [IoT for beginners](https://microsoft.github.io/IoT-For-Beginners/#/)
 
 ### 编程语言
