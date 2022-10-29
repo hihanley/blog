@@ -40,18 +40,21 @@
 - 代理IP池 [BrightData](https://brightdata.com/)
 - 将数据库转换为智能电子表格 [Open Source Airtable Alternative](https://github.com/nocodb/nocodb)
 - 一起看视频 [VideoTogether](https://github.com/VideoTogether/VideoTogether)
+- 轻量级代码托管解决方案 [Gitea](https://gitea.io/zh-cn/)
+- [V2Ray一键安装脚本](https://github.com/233boy/v2ray/wiki)
 
 ## 博客/刊物
 
 - Golang [酷 壳 – CoolShell](https://coolshell.cn)
 - 王垠 [当然我在扯淡](https://www.yinwang.org)
 - 运维大佬 [运维咖啡吧](https://blog.ops-coffee.cn/)
+- 面包多作者 [王登科-DK博客](https://greatdk.com/)
 
 ## 教程/课程
 
 - [System Design Course](https://github.com/karanpratapsingh/system-design)
 - 正则表达式 [learn-regex](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
-- [CS 自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
+- 计算机的自学指南 [CS 自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
 - [Kubernetes Tutorials ｜ k8s 教程](https://github.com/guangzhengli/k8s-tutorials)
 - [Nginx 极简教程](https://github.com/dunwu/nginx-tutorial)
 - [计算机教育中缺失的一课](https://github.com/missing-semester-cn/missing-semester-cn.github.io)
@@ -64,6 +67,8 @@
 - 摄影教程 B站 [禁止自学浪费脑细胞！跟着B站学摄影，摄影师私藏的高级技巧200集。这都没人看，我不更了！](https://www.bilibili.com/video/BV1ZS4y1U7GB)
 - 摄影教程 B站 [这个视频将带你速通手机摄影！](https://www.bilibili.com/video/BV1ge4y177x1)
 - 微软物联网教程 [IoT for beginners](https://microsoft.github.io/IoT-For-Beginners/#/)
+- [现代 JavaScript 教程](https://zh.javascript.info/)
+- [Full stack open](https://fullstackopen.com/)
 
 ### 编程语言
 
