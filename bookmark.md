@@ -1,11 +1,12 @@
 # 书签
 
 - [资源/导航](#资源导航)
-- [在线工具](#在线工具)
+- [工具](#工具)
 - [博客/刊物](#博客刊物)
-- [视频与课程](#视频与课程)
+- [教程/课程](#教程课程)
 - [编程语言](#编程语言)
 - [软件/系统 配置](#软件系统-配置)
+- [模板](#模板)
 
 ## 置顶常用
 
@@ -23,13 +24,22 @@
 - 电子书 [Z-Library 世界上最大的数字图书馆](https://zh.z-lib.org/)
 - [设计达人](https://www.shejidaren.com/)
 - [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
+- 各种主题的资源列表 [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
+- [Go 语言优秀资源整理，为项目落地加速](https://github.com/shockerli/go-awesome)
+- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
-## 在线工具
+## 工具
 
 - 头像制作 [Notion 风格头像制作](https://notion-avatar.vercel.app/zh)
 - 头像制作 [Vue Color Avatar](https://vue-color-avatar.vercel.app)
 - [IKEA Low Price Products | 宜家低价好物](https://ikea-lp.netlify.app)
 - 一个跨平台的电子书阅读器[Koodo Reader](https://github.com/troyeguo/koodo-reader)
+- [在线简历生成器](https://github.com/visiky/resume)
+- [OneinStack - A PHP/JAVA Deployment Tool](https://github.com/oneinstack/oneinstack)
+- 代理IP池 [BrightData](https://brightdata.com/)
+- 将数据库转换为智能电子表格 [Open Source Airtable Alternative](https://github.com/nocodb/nocodb)
+- 一起看视频 [VideoTogether](https://github.com/VideoTogether/VideoTogether)
 
 ## 博客/刊物
 
@@ -37,8 +47,14 @@
 - 王垠 [当然我在扯淡](https://www.yinwang.org)
 - 运维大佬 [运维咖啡吧](https://blog.ops-coffee.cn/)
 
-## 视频与课程
+## 教程/课程
 
+- [System Design Course](https://github.com/karanpratapsingh/system-design)
+- 正则表达式 [learn-regex](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
+- [CS 自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
+- [Kubernetes Tutorials ｜ k8s 教程](https://github.com/guangzhengli/k8s-tutorials)
+- [Nginx 极简教程](https://github.com/dunwu/nginx-tutorial)
+- [计算机教育中缺失的一课](https://github.com/missing-semester-cn/missing-semester-cn.github.io)
 - [SEO: 初学者完整指南](https://ahrefs.com/zh/seo)
 - 学习视频 B站2021年1024程序员节 [1024程序员节](https://www.bilibili.com/blackboard/20211024.html)
 - 学习观作者 YJango 老师的网站 [渐构 Modevol](https://www.modevol.com/)
@@ -60,3 +76,8 @@
 
 - [Mac 开光指南 [2022.09.27更新]](https://shockerli.net/post/mac-initialize/)
 - Mercury MW150US Linux 驱动[Driver for Linux RTL8188GU (RTL8710B) (VID:PID = 0x0BDA:0xB711)](https://github.com/McMCCRU/rtl8188gu)
+
+## 模板
+
+- [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
+- Vitesse [🏕 Opinionated Vite + Vue Starter Template](https://github.com/antfu/vitesse)
