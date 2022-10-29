@@ -7,6 +7,10 @@
 - [编程语言](#编程语言)
 - [软件/系统 配置](#软件系统-配置)
 
+## 置顶常用
+
+<iframe src="https://ip.skk.moe/simple" style="width: 100%; border: 0"></iframe>
+
 ## 博客/刊物
 
 - Golang [酷 壳 – CoolShell](https://coolshell.cn)
@@ -18,14 +22,16 @@
 - 头像制作 [Notion 风格头像制作](https://notion-avatar.vercel.app/zh)
 - 头像制作 [Vue Color Avatar](https://vue-color-avatar.vercel.app)
 - [IKEA Low Price Products | 宜家低价好物](https://ikea-lp.netlify.app)
+- 一个跨平台的电子书阅读器[Koodo Reader](https://github.com/troyeguo/koodo-reader)
 
 ## 资源/导航
 
+- 资讯集合 [摸摸鱼热榜](https://momoyu.cc/)
+- 导航集合 [快点搜](https://quickso.cn/)
 - 壁纸 [Awesome Wallpapers - wallhaven.cc](https://wallhaven.cc/)
 - 电子书 [Z-Library 世界上最大的数字图书馆](https://zh.z-lib.org/)
 - [设计达人](https://www.shejidaren.com/)
-- 资讯集合 [摸摸鱼热榜](https://momoyu.cc/)
-- 导航集合 [快点搜](https://quickso.cn/)
+- [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
 
 ## 视频与课程
 
@@ -43,8 +49,8 @@
 
 - [Go语言101](https://gfw.go101.org)
 - [Learn Go with Tests](https://github.com/quii/learn-go-with-tests)
-- [TypeScript 类型体操姿势合集](https://github.com/type-challenges/type-challenges/blob/main/README.zh-CN.md)
 - [Go 程序员面试笔试宝典](https://golang.design/go-questions/)
+- [TypeScript 类型体操姿势合集](https://github.com/type-challenges/type-challenges/blob/main/README.zh-CN.md)
 
 ## 软件/系统 配置
 
