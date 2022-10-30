@@ -6,7 +6,7 @@
 - [教程/课程](#教程课程)
 - [编程语言](#编程语言)
 - [软件/系统 配置](#软件系统-配置)
-- [模板](#模板)
+- [模板/库/依赖](#模板库依赖)
 
 ## 置顶常用
 
@@ -82,7 +82,8 @@
 - [Mac 开光指南 [2022.09.27更新]](https://shockerli.net/post/mac-initialize/)
 - Mercury MW150US Linux 驱动[Driver for Linux RTL8188GU (RTL8710B) (VID:PID = 0x0BDA:0xB711)](https://github.com/McMCCRU/rtl8188gu)
 
-## 模板
+## 模板/库/依赖
 
-- [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
-- Vitesse [🏕 Opinionated Vite + Vue Starter Template](https://github.com/antfu/vitesse)
+- Go 项目结构 [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
+- Vue3 项目模板 Vitesse [🏕 Opinionated Vite + Vue Starter Template](https://github.com/antfu/vitesse)
+- 前端 窗口管理器 [WinBox.js](https://github.com/nextapps-de/winbox)
