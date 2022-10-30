@@ -28,6 +28,7 @@
 - [Go 语言优秀资源整理，为项目落地加速](https://github.com/shockerli/go-awesome)
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [2021 年 JavaScript 明星项目](https://risingstars.js.org/2021/zh)
 
 ## 工具
 
@@ -52,23 +53,24 @@
 
 ## 教程/课程
 
-- [System Design Course](https://github.com/karanpratapsingh/system-design)
+- Web3 [WEB3 BY EXAMPLE](https://www.web3byexample.com/)
+- 系统架构设计 [System Design Course](https://github.com/karanpratapsingh/system-design)
 - 正则表达式 [learn-regex](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
 - 计算机的自学指南 [CS 自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
 - [Kubernetes Tutorials ｜ k8s 教程](https://github.com/guangzhengli/k8s-tutorials)
 - [Nginx 极简教程](https://github.com/dunwu/nginx-tutorial)
-- [计算机教育中缺失的一课](https://github.com/missing-semester-cn/missing-semester-cn.github.io)
+- 命令行 调试 性能 安全等 [计算机教育中缺失的一课](https://github.com/missing-semester-cn/missing-semester-cn.github.io)
 - [SEO: 初学者完整指南](https://ahrefs.com/zh/seo)
-- 学习视频 B站2021年1024程序员节 [1024程序员节](https://www.bilibili.com/blackboard/20211024.html)
 - 学习观作者 YJango 老师的网站 [渐构 Modevol](https://www.modevol.com/)
 - 情感视频 B站 [声昔TV](https://space.bilibili.com/1426112202)
 - 英语学习 知乎 [恶魔奶爸](https://www.zhihu.com/people/e-miao-de-nai-ba/posts)
 - 唱歌教程 B站 [这可能是B站最全面最详细的唱歌技巧教程，整整800集|从小白到高手，这还教不会你！那你来当音乐老师！](https://www.bilibili.com/video/BV1dU4y1d7V9)
 - 摄影教程 B站 [禁止自学浪费脑细胞！跟着B站学摄影，摄影师私藏的高级技巧200集。这都没人看，我不更了！](https://www.bilibili.com/video/BV1ZS4y1U7GB)
 - 摄影教程 B站 [这个视频将带你速通手机摄影！](https://www.bilibili.com/video/BV1ge4y177x1)
-- 微软物联网教程 [IoT for beginners](https://microsoft.github.io/IoT-For-Beginners/#/)
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 - [Full stack open](https://fullstackopen.com/)
+- [千古前端图文教程](https://github.com/qianguyihao/Web)
+- [Node.js 最佳实践](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md)
 
 ### 编程语言
 
