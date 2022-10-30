@@ -2,7 +2,7 @@
 
 - [资源/导航](#资源导航)
 - [工具](#工具)
-- [博客/刊物](#博客刊物)
+- [博客/刊物/论坛](#博客刊物论坛)
 - [教程/课程](#教程课程)
 - [编程语言](#编程语言)
 - [软件/系统 配置](#软件系统-配置)
@@ -44,8 +44,11 @@
 - 轻量级代码托管解决方案 [Gitea](https://gitea.io/zh-cn/)
 - [V2Ray一键安装脚本](https://github.com/233boy/v2ray/wiki)
 
-## 博客/刊物
+## 博客/刊物/论坛
 
+- [V2EX](https://www.v2ex.com/)
+- [吾爱破解](https://www.52pojie.cn/)
+- [全球主机交流论坛](https://hostloc.com/forum.php)
 - Golang [酷 壳 – CoolShell](https://coolshell.cn)
 - 王垠 [当然我在扯淡](https://www.yinwang.org)
 - 运维大佬 [运维咖啡吧](https://blog.ops-coffee.cn/)
