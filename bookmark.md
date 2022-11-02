@@ -25,7 +25,7 @@
 - [设计达人](https://www.shejidaren.com/)
 - [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
 - 各种主题的资源列表 [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
-- [Go 语言优秀资源整理，为项目落地加速](https://github.com/shockerli/go-awesome)
+- [Awesome Go](https://github.com/avelino/awesome-go)
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [2021 年 JavaScript 明星项目](https://risingstars.js.org/2021/zh)
