@@ -68,3 +68,133 @@ bash <(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/
     ]
 }
 ```
+
+## 客户端链式代理配置
+
+```json
+{
+    "outbounds": [
+        {
+            "protocol": "vmess",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "172.19.0.2",
+                        "port": 40000,
+                        "users": [
+                            {
+                                "id": "",
+                                "alterId": 64
+                            }
+                        ]
+                    }
+                ]
+            },
+            "tag": "transit"
+        },
+        {
+            "protocol": "vmess",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "172.19.0.3",
+                        "port": 40000,
+                        "users": [
+                            {
+                                "id": "",
+                                "alterId": 64
+                            }
+                        ]
+                    }
+                ]
+            },
+            "tag": "final",
+            "proxySettings": {
+                "tag": "transit"
+            }
+        }
+    ],
+    "routing": {
+        "domainStrategy": "IPOnDemand",
+        "rules": [
+            {
+                "type": "field",
+                "ip": [
+                    "172.19.0.6"
+                ],
+                "outboundTag": "final"
+            }
+        ]
+    }
+}
+```
+
+## 服务端链式代理配置
+
+transit server config
+
+```json
+{
+    "inbounds": [
+        {
+            "port": 40000,
+            "protocol": "vmess",
+            "settings": {
+                "clients": [
+                    {
+                        "id": "",
+                        "alterId": 64
+                    }
+                ],
+                "disableInsecureEncryption": true
+            }
+        }
+    ],
+    "outbounds": [
+        {
+            "protocol": "vmess",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "172.19.0.3",
+                        "port": 40000,
+                        "users": [
+                            {
+                                "id": "",
+                                "alterId": 64
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
+```
+
+final server config
+
+```json
+{
+    "inbounds": [
+        {
+            "port": 3389,
+            "protocol": "vmess",
+            "settings": {
+                "clients": [
+                    {
+                        "id": "",
+                        "alterId": 64
+                    }
+                ],
+                "disableInsecureEncryption": true
+            }
+        }
+    ],
+    "outbounds": [
+        {
+            "protocol": "freedom"
+        }
+    ]
+}
+```
