@@ -112,3 +112,44 @@ services:
       - ADMIN_USER=root
       - ADMIN_PASS=password
 ```
+
+## Kafka
+
+> Need to create folders manually.
+
+```text
+kafka
+├── data
+├── zoo_data
+└── docker-compose.yml
+```
+
+```yml
+version: "3"
+
+services:
+  zoo:
+    container_name: "zoo"
+    image: "bitnami/zookeeper"
+    restart: "always"
+    volumes:
+      - "./zoo_data:/bitnami"
+    environment:
+      - ALLOW_ANONYMOUS_LOGIN=yes
+
+  kafka:
+    container_name: "kafka"
+    image: "bitnami/kafka"
+    restart: "always"
+    ports:
+      - "9092:9092"
+    volumes:
+      - "./data:/bitnami"
+    environment:
+      - KAFKA_CFG_ZOOKEEPER_CONNECT=zoo:2181
+      - ALLOW_PLAINTEXT_LISTENER=yes
+      - KAFKA_CLIENT_USERS=user
+      - KAFKA_CLIENT_PASSWORDS=password
+    depends_on:
+      - zoo
+```
