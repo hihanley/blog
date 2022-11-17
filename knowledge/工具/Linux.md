@@ -22,9 +22,14 @@ network:
 
 ## 配置最大打开文件数
 
-1. 修改 `/etc/sysctl.conf`，需要在 `/etc/sysctl.conf` 添加 `fs.file-max = 2000000`，由于这里为全局文件打开数量，需要设置的大一些
+1. 修改 `/etc/sysctl.conf` 添加以下内容
 
-2. 修改 `/etc/security/limits.conf`，添加以下内容
+    ```text
+    fs.file-max = 2000000
+    fs.inotify.max_user_watches=524288
+    ```
+
+2. 修改 `/etc/security/limits.conf` 添加以下内容
 
     ```text
     * soft     nproc          65535
