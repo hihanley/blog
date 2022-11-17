@@ -44,6 +44,7 @@
 - 轻量级代码托管解决方案 [Gitea](https://gitea.io/zh-cn/)
 - [V2Ray一键安装脚本](https://github.com/233boy/v2ray/wiki)
 - Parallels Desktop Crack [somebasj](https://github.com/somebasj) [ParallelsDesktopCrack](https://git.icrack.day/somebasj/ParallelsDesktopCrack)
+- Debian&Ubuntu 软件源配置文件生成 [LUG's repo file generator](https://mirrors.ustc.edu.cn/repogen/)
 
 ## 博客/刊物/论坛
 
