@@ -55,6 +55,7 @@
 - 王垠 [当然我在扯淡](https://www.yinwang.org)
 - 运维大佬 [运维咖啡吧](https://blog.ops-coffee.cn/)
 - 面包多作者 [王登科-DK博客](https://greatdk.com/)
+- [React Status 中文周刊](https://docschina.org/weekly/react/)
 
 ## 教程/课程
 
