@@ -51,6 +51,7 @@
 - [V2EX](https://www.v2ex.com/)
 - [吾爱破解](https://www.52pojie.cn/)
 - [全球主机交流论坛](https://hostloc.com/forum.php)
+- [恩山无线论坛](https://www.right.com.cn/forum/)
 - Golang [酷 壳 – CoolShell](https://coolshell.cn)
 - 王垠 [当然我在扯淡](https://www.yinwang.org)
 - 运维大佬 [运维咖啡吧](https://blog.ops-coffee.cn/)
