@@ -45,6 +45,7 @@
 - [V2Ray一键安装脚本](https://github.com/233boy/v2ray/wiki)
 - Parallels Desktop Crack [somebasj](https://github.com/somebasj) [ParallelsDesktopCrack](https://git.icrack.day/somebasj/ParallelsDesktopCrack)
 - Debian&Ubuntu 软件源配置文件生成 [LUG's repo file generator](https://mirrors.ustc.edu.cn/repogen/)
+- AI制作视频 [Synthesia](https://www.synthesia.io/)
 
 ## 博客/刊物/论坛
 
