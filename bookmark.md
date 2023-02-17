@@ -29,6 +29,7 @@
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [2021 年 JavaScript 明星项目](https://risingstars.js.org/2021/zh)
+- 前端炫酷组件库 [Open-Source UI elements](https://uiverse.io/)
 
 ## 工具
 
