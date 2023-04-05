@@ -38,3 +38,7 @@ cat /dev/null > /var/log/secure
 history -c
 history -w
 ```
+
+清除PowerShell历史记录
+
+`Remove-Item (Get-PSReadlineOption).HistorySavePath`
