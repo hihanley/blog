@@ -3,8 +3,6 @@
 ## MongoDB
 
 ```yml
-version: "3"
-
 services:
   mongo:
     container_name: "mongo"
@@ -43,8 +41,6 @@ mysql
 ```
 
 ```yml
-version: "3"
-
 services:
   mysql:
     container_name: "mysql"
@@ -86,8 +82,6 @@ redis
 ```
 
 ```yml
-version: "3"
-
 services:
   redis:
     container_name: "redis"
@@ -125,8 +119,6 @@ kafka
 ```
 
 ```yml
-version: "3"
-
 services:
   zoo:
     container_name: "zoo"
